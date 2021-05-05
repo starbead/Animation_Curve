@@ -1,4 +1,5 @@
 # Animation_Curve
+It works by connecting points to make curves, so it moves points
 
 # Have many tech
 
